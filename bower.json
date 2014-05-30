@@ -1,6 +1,6 @@
 {
-  "name": "ladda",
-  "version": "0.9.3",
+  "name": "ladda-studygps",
+  "version": "0.9.4",
   "main": ["./dist/ladda.min.js","./dist/ladda.min.css"],
   "dependencies": {
     "spin.js": "1.3.x"

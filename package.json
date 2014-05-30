@@ -1,7 +1,7 @@
 {
-  "name": "Ladda",
-  "version": "0.9.3",
-  "description": "Buttons with built-in loading indicators",
+  "name": "ladda-studygps",
+  "version": "0.9.4",
+  "description": "Only use StudyGPS Service. Buttons with built-in loading indicators",
   "homepage": "http://lab.hakim.se/ladda",
   "scripts": {
     "test": "grunt jshint",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/Ladda.git"
+    "url": "git@github.com:StudyGPS-Company/Ladda-studygps.git"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.2.0",
